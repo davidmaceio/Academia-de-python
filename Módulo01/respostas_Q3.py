@@ -1,0 +1,6 @@
+print("Questão 03: Faça um programa que peça 2 números inteiros e 1 número real. Calcule e mostre:")
+print("a) O produto do dobro do primeiro com metade do segundo.")
+print()
+print("b) A soma do triplo do primeiro com o terceiro.")
+print()
+print("c) O terceiro elevado ao cubo.")

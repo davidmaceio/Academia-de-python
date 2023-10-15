@@ -1,0 +1,1 @@
+print("Questão 07: Faça um programa que converta a temperatura digitada em Celsius para Fahrenheit. Cálculo para Fahrenheit: F = 9*C/5+32")
